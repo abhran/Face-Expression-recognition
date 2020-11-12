@@ -8,8 +8,8 @@ b=plt.imread(file_bytes)
 # st.pyplot(plt)
 st.image(b,width=600)
 import cv2
-import sys
-import os
+# import sys
+# import os
 import numpy as np
 import tensorflow as tf 
 import keras
@@ -19,7 +19,7 @@ from PIL import Image
 import time
 # import os
 # from tqdm import tqdm
-from os import path
+# from os import path
 # from tqdm import trange
 # import pandas as pd
 # from ast import literal_eval
